@@ -1,0 +1,12 @@
+{
+  "name": "01_fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setup-globals.js",
+  "scripts": {
+    "test": "node --require ./setup-globals.js src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
